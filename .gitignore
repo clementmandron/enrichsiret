@@ -1,0 +1,10 @@
+# Fichiers de configuration
+local.config.json
+
+# Fichiers générés par l'exécution du script et les fichiers test
+resultat_pandas.csv
+sirettest.csv
+
+# Environement python
+.venv/
+.env/
